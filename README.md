@@ -29,11 +29,11 @@ I love programming and I love challenges.
 <!-- /https://github.com/anuraghazra/github-readme-stats#themes -->
 <hr/>
 <a href="https://github.com/Mohamed1226">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedTawfiqM&count_private=true&show_icons=true&theme=gruvbox&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed1226&count_private=true&show_icons=true&theme=gruvbox&hide_border=false" />
 </a>
 <!-- <br /> -->
 <a href="https://github.com/Mohamed1226">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTawfiqM&layout=compact&theme=synthwave&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed1226&layout=compact&theme=synthwave&hide_border=false" />
 </a>
 
 <br /> <br /> 
