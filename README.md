@@ -21,7 +21,7 @@ I love programming and I love challenges.
 ### Contact me:
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=green&label=linkedin&logo=linkedin&logoColor=blue&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/mohamed-adel-tawfiq/)) 
-[![Email](https://img.shields.io/static/v1?color=green&label=email&logo=email&logoColor=blue&style=for-the-badge&message=contact)](mohamedun9@gmail.com)
+[![Email](https://img.shields.io/static/v1?color=green&label=email&logo=email&logoColor=blue&style=for-the-badge&message=contact)](mailto:mohamedun9@gmail.com)
 <br />
 [![Instagram URL](https://img.shields.io/static/v1?color=green&label=Instagram&logo=Instagram&logoColor=red&style=for-the-badge&message=follow)](https://www.instagram.com/mohamed108adel/)
 
